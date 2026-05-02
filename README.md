@@ -42,7 +42,7 @@ cd IndianWeatherCities
 pip install -r requirements.txt
 ```
 
-3.  Run the model:
+3. Run the model:
 ```bash
 python india_weather_rev6.py
 ```
