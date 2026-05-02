@@ -1,0 +1,10 @@
+feature,importance
+temp_lag1,4.7997227
+city_enc,0.027537918
+region_enc,0.002184023
+hum_lag1,0.0
+hour_sin,0.0
+hour_cos,0.0
+month_sin,0.0
+month_cos,0.0
+condition_enc,0.0
