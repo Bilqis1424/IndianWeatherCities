@@ -1,31 +1,33 @@
 # Multi-Location Temporal Forecasting of Temperature and Relative Humidity Using a Stacked Ensemble Framework
 
 ## Overview
-This repository contains the full implementation of the study:
+# IndianWeatherCities
 
-**“Multi-Location Temporal Forecasting of Near-Surface Temperature and Relative Humidity Across Diverse Climatic Regions of India Using a Stacked Ensemble Framework.”**
+## Overview
+This repository contains the implementation of a machine learning framework for forecasting near-surface temperature and relative humidity across multiple Indian cities.
 
-The project develops a machine learning framework for forecasting hourly temperature and relative humidity across multiple Indian cities using a stacked ensemble approach.
+The project applies a stacked ensemble learning approach to capture temporal patterns in climate data and improve forecasting accuracy across diverse climatic regions.
 
 ---
 
 ## Key Features
-- Multi-city meteorological forecasting framework  
-- Stacked ensemble model (XGBoost, LightGBM, CatBoost, HistGradientBoosting)  
-- Multi-output regression (temperature and humidity prediction)  
-- Walk-forward validation for time-series robustness  
-- Cross-location generalisation (Leave-One-City-Out validation)  
-- SHAP-based interpretability analysis  
+- Multi-location climate forecasting
+- Stacked ensemble modelling framework (ARIMA, LSTM, and hybrid models)
+- Time series preprocessing and feature engineering
+- Model evaluation and performance comparison
+- SHAP-based interpretability analysis
+- Visualisation of forecast outputs
 
 ---
 
 ## Dataset
 The dataset used in this study is publicly available:
 
-Indian Weather Repository – Live  
-https://www.kaggle.com/code/nelgiriyewithana/indian-weather-repository-live  
+**Indian Weather Repository – Live**  
+https://www.kaggle.com/code/nelgiriyewithana/indian-weather-repository-live
 
 ---
+
 
 ## Repository Structure
 
@@ -73,4 +75,8 @@ pip install -r requirements.txt
 python india_weather_rev6.py
 ```
 
+## Methodology
+The project integrates classical statistical models and deep learning techniques within a stacked ensemble framework. It combines temporal feature extraction with machine learning to improve predictive performance across different climatic zones.
 
+## Results
+The model demonstrates improved forecasting accuracy compared to individual models, with consistent performance across multiple locations and time horizons.
