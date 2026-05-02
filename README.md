@@ -33,10 +33,5 @@ https://www.kaggle.com/code/nelgiriyewithana/indian-weather-repository-live
 
 1. Clone the repository:
 ```bash
-git clone
-https://github.com/Bilqis1424/IndianWeatherCities.git
+git clone https://github.com/Bilqis1424/IndianWeatherCities.git
 cd IndianWeatherCities
-
-pip install -r requirements.txt
-
-python india_weather_rev6.py
