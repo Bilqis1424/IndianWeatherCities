@@ -31,10 +31,10 @@ https://www.kaggle.com/code/nelgiriyewithana/indian-weather-repository-live
 
 The repository is organised as follows:
 
-- `Indian Weather Cities Analysis/`  
+- `analysis/`  
   Contains the main analysis scripts, model development, and forecasting workflow.
 
-- `old_versions/`  
+- `archive/`  
   Includes earlier versions of the modelling scripts retained for transparency, version tracking, and reproducibility.
 
 - `Charts/`  
