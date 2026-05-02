@@ -1,6 +1,6 @@
 # Multi-Location Temporal Forecasting of Temperature and Relative Humidity Using a Stacked Ensemble Framework
 
-# IndianWeatherCities
+## IndianWeatherCities
 
 ## Overview
 This repository contains the implementation of a machine learning framework for forecasting near-surface temperature and relative humidity across multiple Indian cities.
@@ -27,9 +27,7 @@ https://www.kaggle.com/code/nelgiriyewithana/indian-weather-repository-live
 
 ---
 
-
 ## Repository Structure
-
 The repository is organised as follows:
 
 - `analysis/`  
