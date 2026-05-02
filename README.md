@@ -1,6 +1,5 @@
 # Multi-Location Temporal Forecasting of Temperature and Relative Humidity Using a Stacked Ensemble Framework
 
-## Overview
 # IndianWeatherCities
 
 ## Overview
