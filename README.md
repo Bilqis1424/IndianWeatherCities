@@ -35,5 +35,15 @@ https://www.kaggle.com/code/nelgiriyewithana/indian-weather-repository-live
 ```bash
 git clone https://github.com/Bilqis1424/IndianWeatherCities.git
 cd IndianWeatherCities
+```
+
+2. Install dependencies:
+```bash
 pip install -r requirements.txt
+```
+
+3.  Run the model:
+```bash
 python india_weather_rev6.py
+```
+
