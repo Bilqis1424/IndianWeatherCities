@@ -29,6 +29,32 @@ https://www.kaggle.com/code/nelgiriyewithana/indian-weather-repository-live
 
 ## Repository Structure
 
+The repository is organised as follows:
+
+- `Indian Weather Cities Analysis/`  
+  Contains the main analysis scripts, model development, and forecasting workflow.
+
+- `old_versions/`  
+  Includes earlier versions of the modelling scripts retained for transparency, version tracking, and reproducibility.
+
+- `Charts/`  
+  Visualisations and output plots generated during the analysis and forecasting process.
+
+- `ne_110m_admin_0_countries/`  
+  Geospatial data used for mapping and visual representation.
+
+- `IndianWeatherRepository.csv`  
+  Primary dataset used for model training and evaluation.
+
+- `*.png` files  
+  Forecast outputs and visual results.
+
+- `*.html` files  
+  Interactive visualisations (e.g., maps).
+
+- `README.md`  
+  Documentation describing the project, methodology, and usage instructions.
+
 ## How to Run
 
 1. Clone the repository:
