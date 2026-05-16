@@ -1,6 +1,6 @@
 """
 ================================================================================
-FINAL CODE – ARIMA, LSTM, STACKED ENSEMBLE ONLY
+FINAL CODE – ARIMA, Bi-LSTM, STACKED ENSEMBLE ONLY
 With improved bar chart, 48h forecasts & residual diagnostics for all 3 models
 ================================================================================
 """
