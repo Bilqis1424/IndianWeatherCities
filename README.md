@@ -1,4 +1,4 @@
-# Multi-Location Temporal Forecasting of Temperature and Relative Humidity Using a Stacked Ensemble Framework
+# Multi-Location Temporal Forecasting of Temperature and Relative Humidity Using a Stacked Ensemble Framework  
 
 ## IndianWeatherCities
 
@@ -11,7 +11,7 @@ The project applies a stacked ensemble learning approach to capture temporal pat
 
 ## Key Features
 - Multi-location climate forecasting
-- Stacked ensemble modelling framework (ARIMA, LSTM, and hybrid models)
+- Stacked ensemble modelling framework with ARIMA and bidirectional LSTM baselines
 - Time series preprocessing and feature engineering
 - Model evaluation and performance comparison
 - SHAP-based interpretability analysis
@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 3. Run the model:
 ```bash
-python india_weather_rev6.py
+python india_weather_rev7.py
 ```
 
 ## Methodology
